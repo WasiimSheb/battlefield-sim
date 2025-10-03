@@ -1,0 +1,1 @@
+# Javascript simple simulation of a battlefield game
